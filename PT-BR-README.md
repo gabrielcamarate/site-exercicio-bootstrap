@@ -64,6 +64,3 @@ O design é escuro, inspirado em cyberpunk, e funciona bem em desktop, tablet e 
 ⭐ Gostou do projeto? Dê uma estrela no GitHub!  
 
 ---
-
-### Licença
-Este projeto é open source e está disponível sob a licença MIT.
