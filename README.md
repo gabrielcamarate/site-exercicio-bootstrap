@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-![Futuristc - Simple Bootstrap Site](images/previw.png)  
+![Futuristc - Simple Bootstrap Site](images/previw.png)
 
 ---
 
