@@ -1,0 +1,99 @@
+/* Estilo global */
+body {
+    background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+    color: #e0e0e0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    background: #111;
+    border-bottom: 2px solid #0ff;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #0ff !important;
+    text-shadow: 0 0 5px #0ff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #fff !important;
+    text-shadow: 0 0 10px #0ff;
+}
+
+/* Carousel */
+#carouselExample img {
+    box-shadow: 0 0 20px #0ff;
+}
+
+/* Cards */
+.card {
+    background-color: #1e1e1e;
+    color: #ddd;
+    border: 1px solid #333;
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+}
+
+.card-title {
+    color: #0ff;
+    text-shadow: 0 0 5px #0ff;
+}
+
+/* Botões */
+.btn-primary {
+    background-color: #0ff;
+    border: none;
+    color: #000;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #00f5ff;
+    color: #111;
+}
+
+/* Títulos */
+h2 {
+    color: #0ff;
+    text-shadow: 0 0 10px #0ff;
+}
+
+/* Modal Futurista */
+.dark-modal {
+    background-color: #1a1a1a;
+    color: #0ff;
+    border: 1px solid #0ff;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+    text-shadow: 0 0 5px #0ff;
+}
+
+.modal-header {
+    border-bottom: 1px solid #0ff;
+}
+
+.modal-footer {
+    border-top: 1px solid #0ff;
+}
+
+.btn-close-white {
+    filter: invert(1);
+}
+
+
+/* Rodapé */
+footer {
+    background-color: #111;
+    border-top: 2px solid #0ff;
+    text-align: center;
+    color: #e0e0e0;
+    text-shadow: 0 0 5px #0ff;
+    padding: 20px 0;
+}
