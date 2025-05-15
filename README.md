@@ -65,6 +65,3 @@ The design uses a dark cyberpunk-inspired style and works well across desktop, t
 ⭐ If you liked this project, please give it a star on GitHub!  
 
 ---
-
-### License
-This project is open source and available under the MIT License.
